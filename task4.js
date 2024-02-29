@@ -23,3 +23,15 @@ let arr4 = ['cat', 'dog', 'parrot', 'horse', 'fish', 'chicken', 'lion'];
 
 arr4.splice(arr4.length - 2, 2);
 console.log(arr4);
+
+// метод pop()
+
+let arr5 = [1,2,3,4,5,6,7];
+arr5.pop();
+console.log(arr5);
+
+// метод shift()
+
+let arr6 = [1,2,3,4,5,6,7];
+arr6.shift();
+console.log(arr6);
